@@ -1,0 +1,17 @@
+C:\Users\Damian\source\repos\licoreria\bin\Debug\LicoreriaDB.mdf
+C:\Users\Damian\source\repos\licoreria\bin\Debug\LicoreriaDB_log.ldf
+C:\Users\Damian\source\repos\licoreria\bin\Debug\licoreria.exe.config
+C:\Users\Damian\source\repos\licoreria\bin\Debug\licoreria.exe
+C:\Users\Damian\source\repos\licoreria\bin\Debug\licoreria.pdb
+C:\Users\Damian\source\repos\licoreria\bin\Debug\EntityFramework.dll
+C:\Users\Damian\source\repos\licoreria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Damian\source\repos\licoreria\bin\Debug\EntityFramework.xml
+C:\Users\Damian\source\repos\licoreria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Damian\source\repos\licoreria\obj\Debug\licoreria.csproj.AssemblyReference.cache
+C:\Users\Damian\source\repos\licoreria\obj\Debug\licoreria.frmLicores.resources
+C:\Users\Damian\source\repos\licoreria\obj\Debug\licoreria.Properties.Resources.resources
+C:\Users\Damian\source\repos\licoreria\obj\Debug\licoreria.csproj.GenerateResource.cache
+C:\Users\Damian\source\repos\licoreria\obj\Debug\licoreria.csproj.CoreCompileInputs.cache
+C:\Users\Damian\source\repos\licoreria\obj\Debug\licoreria.csproj.Up2Date
+C:\Users\Damian\source\repos\licoreria\obj\Debug\licoreria.exe
+C:\Users\Damian\source\repos\licoreria\obj\Debug\licoreria.pdb
